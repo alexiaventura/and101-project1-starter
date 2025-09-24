@@ -39,7 +39,7 @@
                 android:layout_marginTop="50dp"
                 tools:text="First Last"
                 android:textSize="24sp"
-                android:textColor="@color/black"
+                android:textColor="@color/purple_200"
                 android:textStyle="bold"
                 android:textAllCaps="true"/>
 
